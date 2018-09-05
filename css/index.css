@@ -1,0 +1,27 @@
+:root {
+    --color-primary: linear-gradient(to bottom, #79BD9A 0%, #3B8686 100%);
+    --text-primary: #ECF6F8;
+}
+
+.color-primary {
+    background-image: var(--color-primary) !important;
+    color: var(--text-primary) !important;
+}
+
+.header {
+    text-align: center !important;
+}
+
+#login {
+    position: block;
+    margin-top: 9em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#cad {
+    position: block;
+    margin-top: 8em;
+    margin-left: auto;
+    margin-right: auto;
+}

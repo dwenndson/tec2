@@ -1,0 +1,8 @@
+{
+    "name": "adonis academia",
+    "version": "0.01 alpha",
+    "dependencies": {
+        "bootstrap": "^3.3.7",
+        "jquery": "^1.12.4"
+    }
+}
